@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "0sfs:logo",
+  "name": "0SFS logo",
+  "format": "image/svg+xml",
+  "width": 48,
+  "height": 46,
+  "relativeUrl": "assets/logo.svg",
+  "sha256": "61bc9a161de58248288e6905425d7180f0624c2865007b97d763fdac12043a66",
+  "sizeBytes": 9522,
+  "provenance": {
+    "repository": "https://github.com/0SFS/0SFS.github.io",
+    "revision": "8bc8af6080ebb5e97c0982d2c8ff5e22519f5ac2",
+    "path": "public/favicon.svg",
+    "gitBlob": "6893eb13237060adc0c968a690149a49faa2d7d3",
+    "firstRecordedRevision": "2e2bdacadc460e2b92d77a0a47f88e72819f65d3",
+    "method": "Byte-preserving extraction of the committed favicon. No generator or original design source was found."
+  },
+  "rights": {
+    "status": "unresolved",
+    "creator": null,
+    "licenseExpression": null,
+    "publicationAllowed": false,
+    "requiredEvidence": "Explicit original creator and redistribution license or approved rights determination. The app code license is not an inferred asset grant."
+  },
+  "generation": {
+    "available": false,
+    "sourcePath": null,
+    "command": null
+  }
+}
